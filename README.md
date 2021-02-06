@@ -3,15 +3,23 @@
 💻 Fullstack developer in process 
 Technology stack🧐:
 |HTML
+
 |CSS
+
 |JS
+
 |NODE
+
 |EXPRESS
+
 |MONGODB
+
 |GIT
 
 🌱 I’m currently learning:
+
 |Svelte
+
 |Sapper
 
 
