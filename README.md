@@ -2,25 +2,26 @@
 📍 Medellín, Colombia
 💻 Fullstack developer in process 
 Technology stack🧐:
-|HTML
 
-|CSS
+>HTML
 
-|JS
+>CSS
 
-|NODE
+>JS
 
-|EXPRESS
+>NODE
 
-|MONGODB
+>EXPRESS
 
-|GIT
+>MONGODB
+
+>GIT
 
 🌱 I’m currently learning:
 
-|Svelte
+>Svelte
 
-|Sapper
+>Sapper
 
 
 ✉️ Contact me in Discord: Polibov#5372
