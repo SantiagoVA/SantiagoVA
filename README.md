@@ -1,6 +1,6 @@
 # Hi I am Santiago 👋
-📍 Medellín, Colombia
-💻 Fullstack developer in process 
+- 📍 Medellín, Colombia
+- 💻 Fullstack developer in process 
 
 
 ## Technology stack🧐:
