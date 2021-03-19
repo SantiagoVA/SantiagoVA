@@ -1,31 +1,5 @@
-# Hi I am Santiago 👋
-- 📍 Medellín, Colombia
-- 💻 Fullstack developer in process 
+![Metrics](https://metrics.lecoq.io/SantiagoVA?template=classic&repositories.affiliations=&base.header=0&base.community=0&isocalendar=1&languages=1&introduction=1&isocalendar.duration=half-year&languages.ignored=ejs&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FBogota)
 
-
-## Technology stack🧐:
-
-- HTML
-
-- CSS
-
-- JS
-
-- NODE
-
-- EXPRESS
-
-- MONGODB
-
-- GIT
-
-### 🌱 I’m currently learning:
-
-- Svelte
-
-- Sapper
-
-- Firebase
 
 
 ✉️ Contact me in Discord: Polibov#5372
